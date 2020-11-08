@@ -7,5 +7,5 @@ Features Hangars, Barracks and 40ft Containers.
 格納庫、兵舎、40フィートコンテナを備えています。
 
 - Niall "Salmon" Roe
-8 November 2020, Tokyo, Japan
+Tokyo, Japan
 
