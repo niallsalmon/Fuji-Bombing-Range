@@ -7,7 +7,7 @@
 <!--Targets-->
 
  <scenario>
-  <name>Mt Fuji Range</name>
+  <name>Fuji Bombing Range</name>
   <description>
      Places static targets in the .
   </description>
@@ -17,7 +17,7 @@
    <name>target01</name>
    <model>Aircraft/depot/Models/40ft_container.ac</model>
    <latitude type="double">35.3636</latitude>
-   <longitude type="double">138.727</longitude>
+   <longitude type="double">138.7273</longitude>
    <heading type="double">-95</heading>
    <altitude type="double">12165</altitude>
   </entry>
