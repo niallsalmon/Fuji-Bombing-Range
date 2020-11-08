@@ -2,10 +2,12 @@
 
 <PropertyList>
 
+ <description>Bombing range based on East and North Fuji Training Area of the JGSDF with 8 targets near Mt Fuji. </description>  
+
 <!--Targets-->
 
  <scenario>
-  <name>Mt Fuji Range Area</name>
+  <name>Mt Fuji Range</name>
   <description>
      Places static targets in the .
   </description>
