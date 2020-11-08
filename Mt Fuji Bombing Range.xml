@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+<!--Targets-->
+
+ <scenario>
+  <name>Mt Fuji Range Area</name>
+  <description>
+     Places static targets in the .
+  </description>
+
+  <entry>
+   <type>ship</type>
+   <name>target01</name>
+   <model>Aircraft/depot/Models/40ft_container.ac</model>
+   <latitude type="double">35.3636</latitude>
+   <longitude type="double">138.727</longitude>
+   <heading type="double">-95</heading>
+   <altitude type="double">12165</altitude>
+  </entry>
+  
+  <entry>
+   <type>ship</type>
+   <name>target02</name>
+   <model>Models/Military/EHVK_shelter.ac</model>
+   <latitude>35.297128</latitude>
+   <longitude>138.824383</longitude>
+   <heading>0</heading>
+   <altitude>3100</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target03</name>
+   <model>Aircraft/depot/Models/40ft_container.ac</model>
+   <latitude>35.360378</latitude>
+   <longitude>138.841034</longitude>
+   <heading>0</heading>
+   <altitude>3150</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target04</name>
+   <model>Aircraft/depot/Models/40ft_container.ac</model>
+   <latitude>35.356861</latitude>
+   <longitude>138.828224</longitude>
+   <heading>90</heading>
+   <altitude>3540</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target05</name>
+   <model>Aircraft/depot/Models/40ft_container.ac</model>
+   <latitude>35.3571167</latitude>
+   <longitude>138.8261033</longitude>
+   <heading>0</heading>
+   <altitude>3600</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target06</name>
+   <model>Scenery/Models/Military/us-hush-house-hangar-sand.xml</model>
+   <latitude>35.4124165</latitude>
+   <longitude>138.8067626</longitude>
+   <heading>0</heading>
+   <altitude>4140</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target07</name>
+   <model>Aircraft/depot/Models/40ft_container.ac</model>
+   <latitude>35.285428</latitude>
+   <longitude>138.837775</longitude>
+   <heading>90</heading>
+   <altitude>2575</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target08</name>
+   <model>Scenery/Models/Military/SPAF_Barracks_3.xml</model>
+   <latitude>35.3365972</latitude>
+   <longitude>138.7335944</longitude>
+   <heading>0</heading>
+   <altitude>7800</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target09</name>
+   <model>Aircraft/depot/Models/40ft_container.ac</model>
+   <latitude>40.361963</latitude>
+   <longitude>-113.195040</longitude>
+   <heading>0</heading>
+   <altitude>4263</altitude>
+  </entry>
+
+  <entry>
+   <type>ship</type>
+   <name>target10</name>
+   <model>Aircraft/depot/Models/40ft_container.ac</model>
+   <latitude>40.361926</latitude>
+   <longitude>-113.193213</longitude>
+   <heading>0</heading>
+   <altitude>4263</altitude>
+  </entry>
+
+ </scenario>
+
+</PropertyList>
